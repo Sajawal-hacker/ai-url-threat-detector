@@ -24,5 +24,4 @@ This tool is for educational and forensic investigation purposes only.
 Do not use it for unauthorized activities.
 
 ## Author
-Sajawal Khan
-CyberTech Institute
+Sajawal Khan also know as "Sajawal Hacker" Founder and CEO Pak Cyber Defence & Cyber Tech Institute
